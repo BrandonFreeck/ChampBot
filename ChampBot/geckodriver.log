@@ -1,0 +1,46 @@
+1547183940564	geckodriver	INFO	Listening on 127.0.0.1:61285
+1547183946074	mozprofile::profile	INFO	Using profile path /var/folders/vh/pw55dvj11kx23nfhcyt_nlhh0000gn/T/rust_mozprofile.CwrALJwsydLi
+1547183946077	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1547183946168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61294
+1547183947630	Marionette	INFO	Listening on port 61294
+JavaScript error: https://champion.gg/js/master.min.js?v=undefined, line 1: TypeError: t.tooltipster is not a function
+JavaScript error: https://champion.gg/js/master.min.js?v=undefined, line 1: TypeError: t.tooltipster is not a function
+[Child 22727] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22727] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1547183969654	geckodriver	INFO	Listening on 127.0.0.1:61572
+1547183975010	mozprofile::profile	INFO	Using profile path /var/folders/vh/pw55dvj11kx23nfhcyt_nlhh0000gn/T/rust_mozprofile.Cbub9CuT9DFv
+1547183975015	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1547183975021	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61579
+1547183976221	Marionette	INFO	Listening on port 61579
+JavaScript error: https://champion.gg/js/master.min.js?v=undefined, line 1: TypeError: t.tooltipster is not a function
+JavaScript error: https://champion.gg/js/master.min.js?v=undefined, line 1: TypeError: t.tooltipster is not a function
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
